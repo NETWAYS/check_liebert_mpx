@@ -1,9 +1,9 @@
-name: 
+name: check_liebert_mpx
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
-vendor: Netways
-target: Temperature
+vendor: Liebert,NETWAYS
+target: Temperature,Hardware
 type: Plugin
 license: gplv2
 releases: 
@@ -15,5 +15,5 @@ releases:
         name: check_liebert_mpx.pl
         url: "file:///check_liebert_mpx.pl"
         description: none
-        checksum: 
+        checksum: ed5847455226cf1d1f8f722ae4ff1239
 
